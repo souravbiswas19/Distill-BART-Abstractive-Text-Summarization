@@ -1,4 +1,4 @@
-# BART Summarization POC
+# Distil-BART Summarization POC
 
 This proof of concept (POC) demonstrates how to use the Distil-BART model for text summarization using the Hugging Face Transformers library and Google Text-to-Speech (gTTS) for audio generation.
 
